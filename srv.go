@@ -1,4 +1,4 @@
-package i18n
+package i18np
 
 import "github.com/nicksnyder/go-i18n/v2/i18n"
 
