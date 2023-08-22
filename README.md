@@ -1,3 +1,5 @@
+# this repository has been moved into [cillop](https://github.com/cilloparch/cillop).
+
 # I18n Plus
 
 I18n Plus allows you to translate your entire application.
